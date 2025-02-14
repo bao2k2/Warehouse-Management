@@ -1,0 +1,17 @@
+
+#inputPrice{
+    width: 49%;
+}
+label{
+    font-size: 18px;
+    font-weight: 450;
+}
+p{
+    font-style: italic;
+}
+.btn{
+  background-color: rgb(17, 118, 172);
+  color: white;
+  margin: 15px;
+
+}

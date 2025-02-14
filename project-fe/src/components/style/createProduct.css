@@ -1,0 +1,27 @@
+.content {
+    margin-left: 230px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    margin-right: 150px;
+  }
+textarea{
+    height: 120px;
+}
+.enter {
+    background-color: rgb(17, 118, 172);
+    color: white;
+    margin-top: 15px;
+    width: fit-content;
+    margin-left: 10px;
+    padding:5px 15px;
+    border:none;
+    border-radius: 5%;
+/* <<<<<<< HEAD
+}
+=======
+}
+.base{
+    display: none;
+  }
+>>>>>>> be15c4797d7c8d498e4d2126800f059229a6da3c */
+}

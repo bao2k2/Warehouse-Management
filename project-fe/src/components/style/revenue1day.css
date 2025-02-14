@@ -1,0 +1,45 @@
+.daily-revenue-container {
+
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-left: 210px;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .daily-revenue-container h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .daily-revenue-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .daily-revenue-table th,
+  .daily-revenue-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .daily-revenue-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .daily-revenue-table tr:hover {
+    background-color: #f5f5f5;
+  }
+  
+  .daily-revenue-table tr:last-child {
+    border-bottom: none;
+  }
+  
+  .daily-revenue-total {
+    font-size: 18px;
+    font-weight: bold;
+    margin-top: 20px;
+  }

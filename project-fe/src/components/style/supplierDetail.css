@@ -1,0 +1,18 @@
+.supplier-detail {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.supplier-info {
+  margin-left: 20px; /* Khoảng cách giữa hình ảnh và thông tin */
+}
+
+.supplier-info p {
+  margin-bottom: 10px; /* Khoảng cách giữa các dòng thông tin */
+}
+
+.supplier-info img {
+  max-width: 300px; /* Giới hạn chiều rộng của hình ảnh */
+  height: auto; /* Đảm bảo tỉ lệ hình ảnh không bị biến dạng */
+}
